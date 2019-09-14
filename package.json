@@ -11,5 +11,8 @@
     "url": "github.com/zume2020/Bl0g"
   },
   "author": "Sumithran V Babu",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
 }
