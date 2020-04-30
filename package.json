@@ -44,7 +44,7 @@
     "gulp-include": "^2.3.1",
     "gulp-rename": "^1.2.2",
     "handlebars": "^4.0.10",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "mappy-breakpoints": "^0.2.3",
     "popper.js": "^1.12.5",
     "gulp-imagemin": "^3.4.0",
